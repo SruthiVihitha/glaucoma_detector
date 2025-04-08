@@ -1,0 +1,14 @@
+Django
+tensorflow
+pillow
+pytesseract
+opencv-python
+requests
+streamlit
+gunicorn
+scikit-learn
+matplotlib
+numpy
+Pillow==9.5.0
+lime==0.2.0.1
+shap==0.41.0

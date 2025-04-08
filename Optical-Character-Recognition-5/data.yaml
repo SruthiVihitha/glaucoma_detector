@@ -1,0 +1,23 @@
+names:
+- average gcl and ipl thickness
+- average gcl and ipl thickness-od
+- average gcl and ipl thickness-os
+- minimum gcl and ipl thickness
+- minimum gcl and ipl thickness-od
+- minimum gcl and ipl thickness-os
+- rim area
+- rim area-od
+- rim area-os
+- vertical cd ratio
+- vertical cd ratio-od
+- vertical cd ratio-os
+nc: 12
+roboflow:
+  license: CC BY 4.0
+  project: optical-character-recognition-3xdkm
+  url: https://universe.roboflow.com/projects-igtbu/optical-character-recognition-3xdkm/dataset/5
+  version: 5
+  workspace: projects-igtbu
+test: ../test/images
+train: ../train/images
+val: ../valid/images
